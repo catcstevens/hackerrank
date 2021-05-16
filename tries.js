@@ -3,7 +3,7 @@ const ALPHA = "abcdefghij"
 
 // initialises a root node of undefined value and undefined list
 function initRoot() {
-    return {value: undefined, list: undefined, isComplete: false}
+    return {value: undefined, list: undefined}
 }
 
 //initializes and returns an array of 10 objects of value: undefined, list: undefined
